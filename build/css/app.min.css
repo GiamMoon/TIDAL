@@ -1231,6 +1231,10 @@ button:not(:disabled),
   .d-lg-none {
     display: none !important;
   }
+  .px-lg-0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
   .gap-lg-4 {
     gap: 1.5rem !important;
   }
